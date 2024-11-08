@@ -1,0 +1,18 @@
+ul {
+    display: flex !important; 
+    align-items: center !important;
+}
+
+.badge {
+    align-self: center !important;
+}
+
+.fa-shopping-cart {
+    margin-right: 5px !important;
+    font-size: 25px !important;
+}
+
+.navbar {
+    background-color: rgb(199, 255, 199);
+}
+
